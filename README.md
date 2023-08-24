@@ -1,2 +1,2 @@
 # sample-app
-sample app description
+sample app
